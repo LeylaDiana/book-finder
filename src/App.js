@@ -6,14 +6,12 @@ import "./index.css";
 function App() {
   // 1. This is the main array of books
   const [books] = useState([
-    "Jodoh Pasti Bertemu",
-    "Psikiatri Ward",
-    "Vape got me Beg 2 Back",
-    "Epilim Chrono",
-    "Doctor Follow Ups",
-    "Seizures",
-    "Bipolar Disorder",
-    "I only wanted to Help!"
+    "Love in Pink Sneakers",
+    "Accidentally Yours",
+    "Kisses at the Crosswalk",
+    "The Boy Who Saved My Seat",
+    "Falling for the Quiet One",
+    "When Our Hearts Learned to Speak"
   ]);
 
   // 2. This state stores the user's search input
